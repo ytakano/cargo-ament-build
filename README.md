@@ -19,3 +19,5 @@ These paths are relative to the directory containing the `Cargo.toml` file and w
 The same mechanism applies with `install_to_include` and `install_to_lib`.
 
 Target types other than libraries and binaries (i.e. benches, tests) are not yet installed.
+
+TEST
